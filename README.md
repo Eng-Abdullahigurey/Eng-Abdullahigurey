@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eng.Abdullahi</h1>
-<h3 align="center">A passionate Softwera Engineening</h3>
+<h3 align="center">Software Engineering student passionate about Java Development, Android App Development, and Software Solutions. Currently building real-world projects using Java, Spring Boot, Android Studio, and modern development tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-abdullahigurey&label=Profile%20views&color=0e75b6&style=flat" alt="eng-abdullahigurey" /> </p>
 
